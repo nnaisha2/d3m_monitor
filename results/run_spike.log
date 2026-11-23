@@ -1,0 +1,52 @@
+=== seed 0 ===
+  e6: 10.2s
+  e1: 0.4s
+  e2: 16.1s
+  e3: 49.9s
+  e4: 100.4s
+  e5: 25.0s
+  e5_reg: 38.7s
+  e7: 6.5s
+  saved figures/e1_disagreement_map.png
+  saved figures/panelA_harmful_boundary.png
+  saved figures/panelA_harmful_extrapolation.png
+  saved figures/panelA_harmless_easier.png
+  saved figures/panelA_harmless_luck.png
+  saved figures/e7_timeline.png
+=== seed 1 ===
+  e1: 0.4s
+  e2: 17.5s
+  e3: 50.7s
+  e4: 104.5s
+  e5: 25.1s
+  e5_reg: 39.1s
+  e7: 6.2s
+=== seed 2 ===
+  e1: 0.4s
+  e2: 16.4s
+  e3: 52.1s
+  e4: 106.8s
+  e5: 25.0s
+  e5_reg: 39.2s
+  e7: 6.0s
+=== seed 3 ===
+  e1: 0.4s
+  e2: 16.0s
+  e3: 50.8s
+  e4: 103.3s
+  e5: 26.1s
+  e5_reg: 37.8s
+  e7: 6.0s
+=== seed 4 ===
+  e1: 0.4s
+  e2: 16.8s
+  e3: 50.8s
+  e4: 102.9s
+  e5: 25.7s
+  e5_reg: 37.9s
+  e7: 6.3s
+  saved figures/e2_fpr_no_shift.png
+  saved figures/e3_shift_strength.png
+  saved figures/e4_batch_size.png
+  saved figures/e5_sensitivity.png
+TOTAL 1316.7s

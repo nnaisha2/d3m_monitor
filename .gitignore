@@ -1,0 +1,19 @@
+# secrets: never commit
+token.txt
+*token*.txt
+.env
+.env.*
+*.key
+
+# Python and Jupyter caches
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# model checkpoints and large data
+results/checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.npz
+data/
