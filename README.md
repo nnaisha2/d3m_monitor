@@ -33,7 +33,7 @@ If PowerShell refuses to run `Activate.ps1`, run `Set-ExecutionPolicy -Scope Cur
 
 ## How to run
 
-All commands are run from the `mlops/d3m_monitor` folder with the venv active (`cd mlops\d3m_monitor` from the repo root).
+All commands are run from the repository root with the venv active.
 
 | What | Command | Time on the test laptop* |
 |---|---|---|
